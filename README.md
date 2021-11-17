@@ -23,3 +23,5 @@ O cronograma de etapas para o desenvolvimento deste projeto é:
 
 **Etapa 7 - Formatação e envio da proposta**
 
+Acompanhe a escrita das etapas acima, neste link: https://vitoria-zoche.gitbook.io/veppo-redesign/
+
